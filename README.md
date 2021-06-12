@@ -15,6 +15,8 @@ I executed each of files three times because their running time were flexible
   
   ![스크린샷, 2021-06-12 21-26-44](https://user-images.githubusercontent.com/50763379/121775870-eb801380-cbc4-11eb-8dee-e3fa2439844e.png)
 
+
+  - Results
   |Method|First|Second|Third|Average|
   |------|---|---|---|---|
   |Sempahore|[4.976/2.171/5.414]|[5.015/2.122/5.500]|[5.116/2.397/5.349]|[5.036/2.230/5.421]|
